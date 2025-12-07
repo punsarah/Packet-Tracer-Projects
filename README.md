@@ -8,7 +8,7 @@ Description:
 Designed a SOHO network using Cisco Packet Tracer to automate IP addressing and secure wireless access.
 
 Topology:
-![Network Diagram](SOHO Network Topology.png)
+[Network Diagram](Capture.PNG)
 
 Technologies Used:
 - DHCP Configuration
